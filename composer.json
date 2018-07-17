@@ -1,0 +1,23 @@
+{
+    "name": "vihoangson/lampart-validate",
+    "type": "library",
+    "description": "Create deep copies (clones) of your objects",
+    "keywords": ["clone", "copy", "duplicate", "object", "object graph"],
+    "license": "MIT",
+
+    "autoload": {
+        "psr-4": {
+            "lampartValidate\\": "src/lampartValidate/"
+        },
+        "files": [
+            "src/lampartValidate/validate.php"
+        ]
+    },
+
+
+    "require": {
+        "php": "^7.1"
+    },
+   
+
+}
