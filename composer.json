@@ -12,12 +12,5 @@
         "files": [
             "src/lampartValidate/validate.php"
         ]
-    },
-
-
-    "require": {
-        "php": "^7.1"
-    },
-   
-
+    }  
 }
